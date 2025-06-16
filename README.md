@@ -15,9 +15,7 @@ Welcome to my data science portfolio! I'm a beginner data scientist learning Pyt
 
 ## 📊 Projects
 
-### 1. Netflix Data Analysis
-**Dataset:** Netflix TV Shows and Movies  
-**Goal:** Analyze release trends, duration, and genre distribution.
+
 
 
 ## 🧩 About Me
