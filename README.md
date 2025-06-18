@@ -19,6 +19,7 @@ Welcome to my data science portfolio! I'm a beginner data scientist learning Pyt
 ## 📜 Certificates
 🏅 (https://www.kaggle.com/learn/certification/jaymushewett/python)
   Completed Kaggle’s Python track, covering variables, loops, list comprehensions, and more.
+  
 🏅 (https://www.kaggle.com/learn/certification/jaymushewett/pandas)
   Completed Kaggle's Pandas track, gaining skills in data manipulation, grouping, sorting, and visulization.
 
